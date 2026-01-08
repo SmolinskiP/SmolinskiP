@@ -6,7 +6,7 @@ Hello! I’m **Patryk Smoliński**. I am an IT professional supporting dynamic i
 ---
 
 ## 🛠 Technical Expertise & Open Source
-* **IT Systems:** Advanced Linux Administration, Microsoft 365, Web Server Management (Nginx, Apache).
+* **IT Systems:** Advanced Linux Administration, Microsoft 365, Web Server Management.
 * **Automations:** Deeply involved in the **Home Assistant** ecosystem. I love turning complex logic into seamless smart home experiences.
 * **Featured Project:** 🤖 **[GLaSSIST](https://github.com/SmolinskiP/GLaSSIST)** – An advanced assistant for Home Assistant, inspired by GLaDOS, designed to bring personality and high-level logic to smart homes.
 
