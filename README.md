@@ -2,15 +2,15 @@
 
 <picture>
   <source 
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1a2332,100:2d3e50&text=Patryk%20Smoliński&section=header&fontSize=32&fontColor=e8eaed&animation=fadeIn&fontAlignY=38" 
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a2332,100:2d3e50&text=Hey%20👋%20I'm%20Patryk!&section=header&reversal=false&fontSize=28&textBg=false&fontColor=e8eaed&animation=fadeIn&fontAlignY=70&fontAlign=50&descAlign=50" 
     media="(prefers-color-scheme: dark)" />
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:364f6b,100:3fc1c9&text=Patryk%20Smoliński&section=header&fontSize=32&fontColor=f5f5f5&animation=fadeIn&fontAlignY=38" />
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:364f6b,100:3fc1c9&text=Hey%20👋%20I'm%20Patryk!&section=header&reversal=false&fontSize=28&textBg=false&fontColor=f5f5f5&animation=fadeIn&fontAlignY=70&fontAlign=50&descAlign=50" />
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=3fc1c9&center=true&vCenter=true&width=600&lines=IT+Specialist+%7C+Smart+Home+Enthusiast;Founder+of+Ashes+Fireshow+%26+DailyStoic.pl;Mensa+Member+%7C+Psychology+Student)](https://git.io/typing-svg/#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=3fc1c9&center=true&vCenter=true&width=600&lines=💻+IT+Specialist+%7C+🏠+Smart+Home+Enthusiast;🔥+Founder+of+Ashes+Fireshow+%26+DailyStoic.pl;🧠+Mensa+Member+%7C+📚+Psychology+Student;🌱+Open+Source+Contributor)](https://git.io/typing-svg/#gh-dark-mode-only)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=364f6b&center=true&vCenter=true&width=600&lines=IT+Specialist+%7C+Smart+Home+Enthusiast;Founder+of+Ashes+Fireshow+%26+DailyStoic.pl;Mensa+Member+%7C+Psychology+Student)](https://git.io/typing-svg/#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=364f6b&center=true&vCenter=true&width=600&lines=💻+IT+Specialist+%7C+🏠+Smart+Home+Enthusiast;🔥+Founder+of+Ashes+Fireshow+%26+DailyStoic.pl;🧠+Mensa+Member+%7C+📚+Psychology+Student;🌱+Open+Source+Contributor)](https://git.io/typing-svg/#gh-light-mode-only)
 
 <br>
 
@@ -109,7 +109,7 @@ philosophy: "Amor fati - embrace what is, shape what can be"
 
 ## 📫 Let's Connect
 
-[<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32">](https://www.linkedin.com/in/patryk-smolinski-7212b419b/)
+[<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32">](https://www.linkedin.com/in/patryk-smoliński-7212b419b/)
 [<img src="https://img.shields.io/badge/YouTube-@patryk--smolinski-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="32">](https://www.youtube.com/@patryk-smolinski)
 [<img src="https://img.shields.io/badge/Email-smolinski.patryk@mensa.org.pl-364f6b?style=for-the-badge&logo=gmail&logoColor=white" height="32">](mailto:smolinski.patryk@mensa.org.pl)
 
@@ -121,10 +121,10 @@ philosophy: "Amor fati - embrace what is, shape what can be"
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=SmolinskiP&show_icons=true&theme=transparent&hide_border=true&title_color=3fc1c9&icon_color=364f6b&text_color=c9d1d9&bg_color=0d1117" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SmolinskiP&layout=compact&theme=transparent&hide_border=true&title_color=3fc1c9&text_color=c9d1d9&bg_color=0d1117&langs_count=8" 
     media="(prefers-color-scheme: dark)" />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SmolinskiP&show_icons=true&theme=default&hide_border=true&title_color=364f6b&icon_color=3fc1c9&bg_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmolinskiP&layout=compact&theme=default&hide_border=true&title_color=364f6b&bg_color=ffffff&langs_count=8"
     height="180" />
 </picture>
 
