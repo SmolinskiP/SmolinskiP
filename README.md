@@ -49,9 +49,12 @@ Hello! I'm **Patryk Smoliński** – an IT specialist supporting dynamic technol
 [<img src="https://img.shields.io/badge/YouTube-@patryk--smolinski-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="32">](https://www.youtube.com/@patryk-smolinski)
 [<img src="https://img.shields.io/badge/Email-smolinski.patryk@mensa.org.pl-364f6b?style=for-the-badge&logo=gmail&logoColor=white" height="32">](mailto:smolinski.patryk@mensa.org.pl)
 
+[<img src="https://img.shields.io/badge/Facebook-Patryk_Smoliński-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="32">](https://www.facebook.com/patryk.smolinski.official)
 [<img src="https://img.shields.io/badge/Ashes_Fireshow-ashes.pl-FC4C02?style=for-the-badge&logo=fire&logoColor=white" height="32">](https://ashes.pl)
 [<img src="https://img.shields.io/badge/DailyStoic-dailystoic.pl-2d3e50?style=for-the-badge&logo=bookstack&logoColor=white" height="32">](https://dailystoic.pl)
-[<img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="32">](https://www.behance.net/patryksmolinski)
+[<img src="https://img.shields.io/badge/Facebook-Grupa_Ashes-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="32">](https://www.facebook.com/grupaashes/)
+<!-- For bots and indexing -->
+[Portfolio](https://www.behance.net/patryksmolinski)
 
 <br>
 
