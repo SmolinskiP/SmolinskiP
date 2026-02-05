@@ -18,11 +18,13 @@
 
 ## 🧭 Philosophy Meets Technology
 
-Hello! I'm **Patryk Smoliński** – an IT specialist supporting dynamic technological infrastructures and an automation enthusiast. I bridge technical logic, ancient philosophy, and performance art into a cohesive whole.
+Hello! I'm **Patryk Smoliński** – an IT specialist supporting dynamic technological infrastructures and an automation enthusiast. I bridge technical logic, ancient philosophy, and performance art into a cohesive whole.<br>
+
+---
 
 <div align="center">
 
-### 🛠 Expertise & Tech Stack
+### 🛠 Expertise & Tech Stack<br>
 
 <a href="https://skillicons.dev/#gh-dark-mode-only">
   <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,windows,bash,powershell,python,flask,django,pytorch,js,html,css,arduino,mysql,docker,raspberrypi,github&theme=dark&perline=19" height="50" />
@@ -35,7 +37,7 @@ Hello! I'm **Patryk Smoliński** – an IT specialist supporting dynamic technol
 
 </div>
 
-**IT Systems:** Advanced Linux Administration • Microsoft 365 • Web Server Management  
+<br>**IT Systems:** Advanced Linux Administration • Microsoft 365 • Web Server Management  
 **Automation:** Home Assistant Ecosystem • Smart Home Architecture • IoT Integration  
 **DevOps:** Docker • CI/CD • Infrastructure as Code
 
