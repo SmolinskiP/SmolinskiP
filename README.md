@@ -59,6 +59,8 @@ Hello! I'm **Patryk Smoliński** – an IT specialist supporting dynamic technol
 
 <br>
 
+---
+
 </div>
 
 ## 🚀 Featured Projects
