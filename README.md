@@ -127,8 +127,6 @@ membership:
 philosophy: "Amor fati - embrace what is, shape what can be"
 ```
 
----
-
 <div align="center">
 
 <picture>
