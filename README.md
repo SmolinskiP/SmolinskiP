@@ -5,7 +5,7 @@
     srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a2332,100:2d3e50&text=Hey%20👋%20I'm%20Patryk!&section=header&reversal=false&fontSize=28&textBg=false&fontColor=e8eaed&animation=fadeIn&fontAlignY=70&fontAlign=50&descAlign=50" 
     media="(prefers-color-scheme: dark)" />
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:364f6b,100:3fc1c9&text=Hey%20👋%20I'm%20Patryk!&section=header&reversal=false&fontSize=28&textBg=false&fontColor=f5f5f5&animation=fadeIn&fontAlignY=70&fontAlign=50&descAlign=50" />
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a2332,100:2d3e50&text=Hey%20👋%20I'm%20Patryk!&section=header&reversal=false&fontSize=28&textBg=false&fontColor=e8eaed&animation=fadeIn&fontAlignY=70&fontAlign=50&descAlign=50" />
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=3fc1c9&center=true&vCenter=true&width=600&lines=💻+IT+Specialist+%7C+🏠+Smart+Home+Enthusiast;🔥+Founder+of+Ashes+Fireshow+%26+DailyStoic.pl;🧠+Mensa+Member+%7C+📚+Psychology+Student;🌱+Open+Source+Contributor)](https://git.io/typing-svg/#gh-dark-mode-only)
