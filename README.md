@@ -39,6 +39,20 @@ Hello! I'm **Patryk Smoliński** – an IT specialist supporting dynamic technol
 
 ---
 
+<div align="center">
+
+## 📫 Let's Connect
+
+[<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32">](https://www.linkedin.com/in/patryk-smoliński-7212b419b/)
+[<img src="https://img.shields.io/badge/YouTube-@patryk--smolinski-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="32">](https://www.youtube.com/@patryk-smolinski)
+[<img src="https://img.shields.io/badge/Email-smolinski.patryk@mensa.org.pl-364f6b?style=for-the-badge&logo=gmail&logoColor=white" height="32">](mailto:smolinski.patryk@mensa.org.pl)
+
+[<img src="https://img.shields.io/badge/Ashes_Fireshow-ashes.pl-FC4C02?style=for-the-badge&logo=fire&logoColor=white" height="32">](https://ashes.pl)
+[<img src="https://img.shields.io/badge/DailyStoic-dailystoic.pl-2d3e50?style=for-the-badge&logo=bookstack&logoColor=white" height="32">](https://dailystoic.pl)
+[<img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="32">](https://www.behance.net/patryksmolinski)
+
+<br>
+
 ## 🚀 Featured Projects
 
 <table>
@@ -105,19 +119,7 @@ philosophy: "Amor fati - embrace what is, shape what can be"
 
 ---
 
-<div align="center">
 
-## 📫 Let's Connect
-
-[<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32">](https://www.linkedin.com/in/patryk-smoliński-7212b419b/)
-[<img src="https://img.shields.io/badge/YouTube-@patryk--smolinski-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="32">](https://www.youtube.com/@patryk-smolinski)
-[<img src="https://img.shields.io/badge/Email-smolinski.patryk@mensa.org.pl-364f6b?style=for-the-badge&logo=gmail&logoColor=white" height="32">](mailto:smolinski.patryk@mensa.org.pl)
-
-[<img src="https://img.shields.io/badge/Ashes_Fireshow-ashes.pl-FC4C02?style=for-the-badge&logo=fire&logoColor=white" height="32">](https://ashes.pl)
-[<img src="https://img.shields.io/badge/DailyStoic-dailystoic.pl-2d3e50?style=for-the-badge&logo=bookstack&logoColor=white" height="32">](https://dailystoic.pl)
-[<img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="32">](https://www.behance.net/patryksmolinski)
-
-<br>
 
 <picture>
   <source 
