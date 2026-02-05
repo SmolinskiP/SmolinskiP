@@ -1,41 +1,141 @@
-# Patryk Smoliński
-### IT Specialist | Smart Home Enthusiast | Founder of Ashes Fireshow & DailyStoic.pl | Mensa Member
+<div align="center">
 
-Hello! I’m **Patryk Smoliński**. I am an IT professional supporting dynamic infrastructures and a passionate advocate for automation. I bridge the gap between technical logic, ancient philosophy, and performance art.
+<picture>
+  <source 
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1a2332,100:2d3e50&text=Patryk%20Smoliński&section=header&fontSize=32&fontColor=e8eaed&animation=fadeIn&fontAlignY=38" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:364f6b,100:3fc1c9&text=Patryk%20Smoliński&section=header&fontSize=32&fontColor=f5f5f5&animation=fadeIn&fontAlignY=38" />
+</picture>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=3fc1c9&center=true&vCenter=true&width=600&lines=IT+Specialist+%7C+Smart+Home+Enthusiast;Founder+of+Ashes+Fireshow+%26+DailyStoic.pl;Mensa+Member+%7C+Psychology+Student)](https://git.io/typing-svg/#gh-dark-mode-only)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=364f6b&center=true&vCenter=true&width=600&lines=IT+Specialist+%7C+Smart+Home+Enthusiast;Founder+of+Ashes+Fireshow+%26+DailyStoic.pl;Mensa+Member+%7C+Psychology+Student)](https://git.io/typing-svg/#gh-light-mode-only)
+
+<br>
+
+</div>
+
+## 🧭 Philosophy Meets Technology
+
+Hello! I'm **Patryk Smoliński** – an IT specialist supporting dynamic technological infrastructures and an automation enthusiast. I bridge technical logic, ancient philosophy, and performance art into a cohesive whole.
+
+<div align="center">
+
+### 🛠 Expertise & Tech Stack
+
+<a href="https://skillicons.dev/#gh-dark-mode-only">
+  <img src="https://skillicons.dev/icons?i=linux,bash,py,docker,nginx,postgres,raspberrypi,homeassistant&theme=dark" height="42" />
+</a>
+<a href="https://skillicons.dev/#gh-light-mode-only">
+  <img src="https://skillicons.dev/icons?i=linux,bash,py,docker,nginx,postgres,raspberrypi,homeassistant&theme=light" height="42" />
+</a>
+
+</div>
+
+**IT Systems:** Advanced Linux Administration • Microsoft 365 • Web Server Management  
+**Automation:** Home Assistant Ecosystem • Smart Home Architecture • IoT Integration  
+**DevOps:** Docker • CI/CD • Infrastructure as Code
 
 ---
 
-## 🛠 Technical Expertise & Open Source
-* **IT Systems:** Advanced Linux Administration, Microsoft 365, Web Server Management.
-* **Automations:** Deeply involved in the **Home Assistant** ecosystem. I love turning complex logic into seamless smart home experiences.
-* **Featured Project:** 🤖 **[GLaSSIST](https://github.com/SmolinskiP/GLaSSIST)** – An advanced assistant for Home Assistant, inspired by GLaDOS, designed to bring personality and high-level logic to smart homes.
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%">
 
-## ⚡ My Projects & Passions
+### 🤖 [GLaSSIST](https://github.com/SmolinskiP/GLaSSIST)
+
+Advanced assistant for Home Assistant inspired by GLaDOS. Combining personality with high-level smart home control logic.
+
+![GitHub stars](https://img.shields.io/github/stars/SmolinskiP/GLaSSIST?style=flat-square&color=364f6b)
+![GitHub forks](https://img.shields.io/github/forks/SmolinskiP/GLaSSIST?style=flat-square&color=3fc1c9)
+
+</td>
+<td width="50%">
+
 ### 🔥 [Ashes Fireshow](https://ashes.pl)
-Founder of a professional performance group. We combine fire artistry with social impact, supporting youth in difficult life situations through workshops and performances.
+
+Professional performance group combining fire artistry with social impact. Supporting youth in difficult life situations through workshops and performances.
+
+<img src="https://img.shields.io/badge/Website-ashes.pl-FC4C02?style=flat-square&logo=firefox&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🏛 [DailyStoic.pl](https://dailystoic.pl)
-Creator of a platform dedicated to bringing Stoic philosophy into modern daily practice. Focused on resilience, discipline, and mental clarity.
+
+Platform dedicated to practicing Stoicism in daily life. Mental resilience, discipline, and clarity of mind.
+
+<img src="https://img.shields.io/badge/Philosophy-Stoicism-2d3e50?style=flat-square&logo=bookstack&logoColor=white" />
+
+</td>
+<td width="50%">
+
+### 💡 Open Source Contributions
+
+Active contributor in the Home Assistant ecosystem and home automation related projects.
+
+![GitHub followers](https://img.shields.io/github/followers/SmolinskiP?style=flat-square&color=364f6b)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧠 About Me
-* 🧩 **Mensa Member:** Passionate about logic and high-level problem solving.
-* 🎓 **Psychology Student:** Exploring the human mind to build better leadership and support systems.
-* 📍 Based in: Ciechanów, Poland.
+
+```yaml
+location: Ciechanów, Poland
+current_focus: 
+  - Smart Home Architecture
+  - Stoic Philosophy Platform
+  - Fire Performance Art
+education:
+  - Psychology Student
+  - IT Infrastructure Specialist
+membership:
+  - Mensa Polska
+philosophy: "Amor fati - embrace what is, shape what can be"
+```
 
 ---
 
-## 📫 Connect with me
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [Professional Profile](https://www.linkedin.com/in/patryk-smolinski-7212b419b/) |
-| **Ashes Fireshow** | [ashes.pl](https://ashes.pl) |
-| **Stoicism** | [dailystoic.pl](https://dailystoic.pl) |
-| **YouTube** | [@patryk-smolinski](https://www.youtube.com/@patryk-smolinski) |
-| **Behance** | [Portfolio](https://www.behance.net/patryksmolinski) |
-| **Facebook (Personal)** | [Patryk Smoliński](https://www.facebook.com/patryk.smolinski.official) |
-| **Facebook (Ashes)** | [Grupa Ashes](https://www.facebook.com/grupaashes/) |
-| **Email** | [smolinski.patryk@mensa.org.pl](mailto:smolinski.patryk@mensa.org.pl) |
+<div align="center">
+
+## 📫 Let's Connect
+
+[<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32">](https://www.linkedin.com/in/patryk-smolinski-7212b419b/)
+[<img src="https://img.shields.io/badge/YouTube-@patryk--smolinski-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="32">](https://www.youtube.com/@patryk-smolinski)
+[<img src="https://img.shields.io/badge/Email-smolinski.patryk@mensa.org.pl-364f6b?style=for-the-badge&logo=gmail&logoColor=white" height="32">](mailto:smolinski.patryk@mensa.org.pl)
+
+[<img src="https://img.shields.io/badge/Ashes_Fireshow-ashes.pl-FC4C02?style=for-the-badge&logo=fire&logoColor=white" height="32">](https://ashes.pl)
+[<img src="https://img.shields.io/badge/DailyStoic-dailystoic.pl-2d3e50?style=for-the-badge&logo=bookstack&logoColor=white" height="32">](https://dailystoic.pl)
+[<img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="32">](https://www.behance.net/patryksmolinski)
+
+<br>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=SmolinskiP&show_icons=true&theme=transparent&hide_border=true&title_color=3fc1c9&icon_color=364f6b&text_color=c9d1d9&bg_color=0d1117" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SmolinskiP&show_icons=true&theme=default&hide_border=true&title_color=364f6b&icon_color=3fc1c9&bg_color=ffffff"
+    height="180" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source 
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1a2332,100:2d3e50&section=footer&fontSize=14&fontColor=8b949e&desc=The%20obstacle%20is%20the%20way%20%E2%80%93%20Marcus%20Aurelius&descAlignY=65&descAlign=50" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:364f6b,100:3fc1c9&section=footer&fontSize=14&fontColor=2d3e50&desc=The%20obstacle%20is%20the%20way%20%E2%80%93%20Marcus%20Aurelius&descAlignY=65&descAlign=50" />
+</picture>
+
+</div>
