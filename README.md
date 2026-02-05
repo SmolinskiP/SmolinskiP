@@ -30,6 +30,8 @@ Hello! I'm **Patryk Smoliński** – an IT specialist supporting dynamic technol
 <a href="https://skillicons.dev/#gh-light-mode-only">
   <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,windows,bash,powershell,python,flask,django,pytorch,js,html,css,arduino,mysql,docker,raspberrypi,github&theme=light&perline=19" height="50" />
 </a>
+
+
 <br>
 </div>
 
