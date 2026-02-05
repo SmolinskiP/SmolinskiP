@@ -37,9 +37,10 @@ Hello! I'm **Patryk Smoliński** – an IT specialist supporting dynamic technol
 
 </div>
 
-<br>**IT Systems:** Advanced Linux Administration • Microsoft 365 • Web Server Management  
-**Automation:** Home Assistant Ecosystem • Smart Home Architecture • IoT Integration  
-**DevOps:** Docker • CI/CD • Infrastructure as Code
+<br>**Infrastructure:** Linux (Debian/Ubuntu) • Windows Server • Proxmox • Network Config  
+**Automation:** Home Assistant • IoT Devices • Smart Home Logic  
+**Development:** Python • Flask/Django • MySQL • Web Stack  
+**Tools:** Docker • Git • PowerShell • Bash Scripting
 
 ---
 
