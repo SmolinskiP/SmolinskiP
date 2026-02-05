@@ -132,10 +132,10 @@ philosophy: "Amor fati - embrace what is, shape what can be"
 
 <picture>
   <source 
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1a2332,100:2d3e50&section=footer&fontSize=14&fontColor=8b949e&desc=The%20obstacle%20is%20the%20way%20%E2%80%93%20Marcus%20Aurelius&descAlignY=65&descAlign=50" 
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:C7154A%2C100:F85D7F&section=footer&desc=Reach%20out%20%E2%80%93%20I'm%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=efefef&descAlignY=54&animation=fadeIn&descAlign=50" 
     media="(prefers-color-scheme: dark)" />
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:364f6b,100:3fc1c9&section=footer&fontSize=14&fontColor=2d3e50&desc=The%20obstacle%20is%20the%20way%20%E2%80%93%20Marcus%20Aurelius&descAlignY=65&descAlign=50" />
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4C71F2,100:F85D7F&section=footer&desc=Reach%20out%20%E2%80%93%20I'm%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=1F2328&descAlignY=54&animation=fadeIn&descAlign=50" />
 </picture>
 
 <!-- For bots and indexing -->
