@@ -58,6 +58,20 @@ Hello! I'm **Patryk Smoliński** – an IT specialist supporting dynamic technol
 
 [<img src="https://img.shields.io/badge/YouTube-@patryk--smolinski-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="32">](https://www.youtube.com/@patryk-smolinski)
 
+<div align="center">
+
+<picture>
+  <source 
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:C7154A%2C100:F85D7F&section=footer&desc=Reach%20out%20%E2%80%93%20I'm%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=efefef&descAlignY=54&animation=fadeIn&descAlign=50" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4C71F2,100:F85D7F&section=footer&desc=Reach%20out%20%E2%80%93%20I'm%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=1F2328&descAlignY=54&animation=fadeIn&descAlign=50" />
+</picture>
+
+<!-- For bots and indexing -->
+[Portfolio](https://www.behance.net/patryksmolinski)
+
+</div>
 <br>
 
 ---
@@ -127,19 +141,4 @@ membership:
   - Mensa Polska
 philosophy: "Amor fati - embrace what is, shape what can be"
 ```
-
-<div align="center">
-
-<picture>
-  <source 
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:C7154A%2C100:F85D7F&section=footer&desc=Reach%20out%20%E2%80%93%20I'm%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=efefef&descAlignY=54&animation=fadeIn&descAlign=50" 
-    media="(prefers-color-scheme: dark)" />
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4C71F2,100:F85D7F&section=footer&desc=Reach%20out%20%E2%80%93%20I'm%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=1F2328&descAlignY=54&animation=fadeIn&descAlign=50" />
-</picture>
-
-<!-- For bots and indexing -->
-[Portfolio](https://www.behance.net/patryksmolinski)
-
-</div>
 
