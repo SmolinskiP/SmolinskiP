@@ -130,17 +130,6 @@ philosophy: "Amor fati - embrace what is, shape what can be"
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SmolinskiP&layout=compact&theme=transparent&hide_border=true&title_color=3fc1c9&text_color=c9d1d9&bg_color=0d1117&langs_count=8" 
-    media="(prefers-color-scheme: dark)" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmolinskiP&layout=compact&theme=default&hide_border=true&title_color=364f6b&bg_color=ffffff&langs_count=8"
-    height="180" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source 
     srcset="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1a2332,100:2d3e50&section=footer&fontSize=14&fontColor=8b949e&desc=The%20obstacle%20is%20the%20way%20%E2%80%93%20Marcus%20Aurelius&descAlignY=65&descAlign=50" 
     media="(prefers-color-scheme: dark)" />
   <img 
