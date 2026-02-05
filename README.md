@@ -25,10 +25,10 @@ Hello! I'm **Patryk Smoliński** – an IT specialist supporting dynamic technol
 ### 🛠 Expertise & Tech Stack
 
 <a href="https://skillicons.dev/#gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=linux,bash,py,docker,nginx,postgres,raspberrypi,homeassistant&theme=dark" height="42" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,windows,bash,powershell,python,flask,django,pytorch,js,html,css,arduino,mysql,docker,raspberrypi,github&theme=dark" height="42" />
 </a>
 <a href="https://skillicons.dev/#gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=linux,bash,py,docker,nginx,postgres,raspberrypi,homeassistant&theme=light" height="42" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,windows,bash,powershell,python,flask,django,pytorch,js,html,css,arduino,mysql,docker,raspberrypi,github&theme=light" height="42" />
 </a>
 
 </div>
